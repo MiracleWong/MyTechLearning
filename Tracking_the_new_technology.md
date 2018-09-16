@@ -4,9 +4,10 @@
 - [Features - DataGrip](https://www.jetbrains.com/datagrip/features/)
 - [TablePlus | Modern, Native Tool for Database Management](https://tableplus.io/)
 - [Tableplus](https://medium.com/tableplus/modern-native-tool-for-relational-database-79efc35b647d)
+- [Sequel Pro](https://www.sequelpro.com/)
 - [Keyboard Maestro 8.0.5: Work Faster with Macros for macOS](http://www.keyboardmaestro.com/main/)
 - [User Manual Keyboard Maestro Wiki](https://wiki.keyboardmaestro.com/User_Manual)
 - [Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.](https://www.notion.so)
 - [Code::Stats](https://codestats.net/)
 - [WakaTime · Open source plugins, goals, and automatic time tracking for programmers](https://wakatime.com/)
-- 
+- [DeveloperHub.io](https://developerhub.io/): 无需麻烦就能创建漂亮的产品文档
